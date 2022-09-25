@@ -27,7 +27,7 @@ global.agama = 'islam' //agama lu
 global.age = '14' //usia lu sekarang
 global.kelas = '𝑀𝑎𝑠𝑖ℎ 𝑆𝑒𝑘𝑜𝑙𝑎ℎ' //kelas lu
 global.hobi = 'Gaming/editing/ngoding' //hobi lu bre
-global.tempat = 'INDONESIA , ᴋᴀʟɪᴍᴀɴᴛᴀɴ sᴇʟᴀᴛᴀɴ' //tempat tinggal lu
+global.tempat = 'INDONESIA , 𝗞𝗔𝗟𝗜𝗠𝗔𝗡𝗧𝗔𝗡 𝗦𝗘𝗟𝗔𝗧𝗔𝗡' //tempat tinggal lu
 
 global.APIs = { // API Prefix
   // name: 'https://website'
